@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am Head of Data Science at [ExpoPlatform](https://expoplatform.com/)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrKosovan&hide=html,TSQL,JavaScript,PostScript,SCSS,CSS,Less&layout=compact&langs_count=10)
