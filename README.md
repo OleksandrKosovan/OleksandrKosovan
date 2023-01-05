@@ -3,6 +3,8 @@
 - I am Head of Data Science at [ExpoPlatform](https://expoplatform.com/)
 - I am PhD student at [University of Lviv](https://lnu.edu.ua/en/)
 
+---
+
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kosovan-oleksandr/)
 [![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OleksandrKosovan)
 [![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)]([https://medium.com/@oleksandr.kosovan](https://www.kaggle.com/kosovanolexandr))
