@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - I am Head of Data Science at [ExpoPlatform](https://expoplatform.com/)
+- I am PhD student at [University of Lviv](https://lnu.edu.ua/en/)
+
+---
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=OleksandrKosovan)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrKosovan&hide=html,TSQL,JavaScript,PostScript,SCSS,CSS,Less&layout=compact&langs_count=10)
